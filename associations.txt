@@ -1,0 +1,5 @@
+Property_type associatons : 
+{"0": "Apartment", "1": "Bed and breakfast", "2": "Condominium", "3": "Guest suite", "4": "Guesthouse", "5": "House", "6": "Loft", "7": "Other", "8": "Serviced apartment", "9": "Townhouse", "10": "Villa"}
+ 
+ Room_type associatons : 
+{"0": "Entire home/apt", "1": "Hotel room", "2": "Private room", "3": "Shared room"}
